@@ -158,9 +158,6 @@ ul li a{
  <a href="/">
  <span><i class="fas fa-home"></i></span><h10>Home</h10></a></li>
 <hr>
-<li><a href="/huong-dan-vuot-link">
-<span><i class="fab fa-expeditedssl"></i></span><h10>Hướng dẫn vượt link</h10></a></li> </ul></div>
-</hr>
 </div>
 <span style="font-size:30px;cursor:pointer" onclick="openNav()"><i class="fas fa-bars"></i></span>
 <script>
